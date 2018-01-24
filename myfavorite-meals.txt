@@ -1,0 +1,13 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 5432-DFA0
+
+ Directory of C:\Users\gnyama200\Dropbox\MetroState\Spring2018\CS4260\GitPlay
+
+01/23/2018  05:51 PM    <DIR>          .
+01/23/2018  05:51 PM    <DIR>          ..
+01/23/2018  05:49 PM                41 favorite-foods-2.txt
+01/23/2018  05:49 PM            35,821 LICENSE
+01/23/2018  05:51 PM                 0 myfavorite-meals.txt
+01/23/2018  05:49 PM               109 README.md
+               4 File(s)         35,971 bytes
+               2 Dir(s)   4,650,541,056 bytes free
